@@ -6,7 +6,7 @@ def name=(dogs_name)
 end
 
 def name(dogs_name)
-  puts "#{dogs_name}"
+  
 end
 
 def bark
