@@ -1,2 +1,5 @@
 # Your code goes here!
-class = Dog 
+class Dog 
+
+
+end
